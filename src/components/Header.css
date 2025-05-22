@@ -1,0 +1,9 @@
+.header {
+  background-color: #282c34;
+  color: #61dafb;
+  padding: 1.5rem;
+  text-align: center;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.5);
+  font-size: 2rem;
+  font-weight: bold;
+}
