@@ -8,12 +8,11 @@ jai decider de rajouter du css dans la page avant de commencer la deuxieme parti
 jai intégrer les composants principaux (ex: NavBar, Sidebar, MainContent)
 jai utiliser useState pour gérer l'état local
 jai implémenter la logique de récupération d'API (ex: Jikan pour les animes)
-jai ajouter des props et .map() pour afficher les données dynamiques
-jai structurer les données dans un fichier data.js si nécessaire
-
+Ajout de recherche et un liste top anime au monde
 ## semaine3
 Finaliser toutes les pages (Accueil, Projets, AnimeAPI…)
 Harmoniser le design css (thème sombre, couleurs, marges, transitions…)
+faire la liste de projet en faisant un tableau et ensuite le styliser
 améliorer le Header et le Footer
 Ajouter les liens GitHub ou toute autre référence utile
 
