@@ -33,6 +33,7 @@ return(
                     <li>☕ Le matcha est la meilleur boisson au monde.</li>
             </ul>
         </section>
+        <Footer/>
 </div>
 )
 }
